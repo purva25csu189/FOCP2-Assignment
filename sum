@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int num1,num2;
+    int sum;
+    num1 = 10;
+    num2 = 15;
+    sum = num1 + num2;
+    cout <<"the sum of 2 no. is"<<sum;
+    return 0;
+}

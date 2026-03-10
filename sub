@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+int main ()
+{
+   int num1 , num2 ;
+    int sub;
+cout << "Enter first no.";
+cin >> num1 ;
+cout << "Enter second no.";
+cin >> num2 ;
+   sum = num1 - num2 ;
+   cout << "The sub of 2 no. is" << sub;
+   return 0;
+}
